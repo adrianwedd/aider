@@ -15,7 +15,7 @@ openai==0.27.6
 prompt-toolkit==3.0.38
 Pygments==2.15.1
 requests==2.30.0
-rich==13.3.5
+rich==13.6.0
 smmap==5.0.0
 tqdm==4.65.0
 urllib3==2.0.2
